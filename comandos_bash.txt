@@ -1,0 +1,5 @@
+cd -> mudar de pasta
+ls -> listar arquivos da pasta
+pwd -> mostrar o caminho absoluto da pasta
+ls -a -> mostrar arquivos ocultos
+mkdir -> criar pasta
