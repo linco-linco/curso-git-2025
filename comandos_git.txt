@@ -5,7 +5,7 @@ git commit -m "mensagem" -> fazer commit do que estava para ser commitado
 git log -> mostrar todo o histórico de commit
 git diff -> mostrar tudo que foi alterado nos arquivos desde o último commit
 q -> sair do git diff
-git reset nome arquivo -> retirar arquivos do stage (pronto para commitar
+git reset nome_arquivo -> retirar arquivos do stage (pronto para commitar)
 
 ## FLUXO DE TRABALHO
 1. criar o diretório (pasta) do projeto
